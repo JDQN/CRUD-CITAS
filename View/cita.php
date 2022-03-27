@@ -4,7 +4,7 @@
         <i class="fa-solid fa-file-circle-plus"></i>&nbsp; Agregar cita
     </a>
 
-    <a class="btn btn-dark btnGit" href="https://github.com/doralysantander/Crud-Consultorio"  target="_blank" > 
+    <a class="btn btn-dark btnGit" href="https://github.com/JDQN/CRUD-CITAS"  target="_blank" > 
         <i class="fa-brands fa-github"></i>&nbsp; Ir a repositorio de Git
     </a>
 </div>
