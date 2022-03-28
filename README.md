@@ -37,9 +37,17 @@
 - 6.Step -> Success
   
 ---
+
 <h2>💻 IMG 💻</h2>
 
-<img src="" />
+<img src="https://github.com/JDQN/CRUD-CITAS/blob/main/IMG1.png" />
 
 ---
+
+<img src="https://github.com/JDQN/CRUD-CITAS/blob/main/IMG2.png" />
+
+--- 
+
+<img src="https://github.com/JDQN/CRUD-CITAS/blob/main/IMG3.png"/>
+
 
