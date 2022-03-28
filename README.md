@@ -7,7 +7,7 @@
 <p><em> EducaMas -> <a href="https://educamas.com.co/"> EducaMas - Programate</a>, Regional. 💻 </br>
 </em></p>
 
-<h2> 👨🏻•💻 TEAM 👨🏻•💻 </h2>
+<h2> 💻•👩 TEAM 👨🏻•💻 </h2>
 
 - 🎓 &nbsp; Doraly Santander.
 - 🎓 &nbsp; Juan David Quimbayo Nuñez.
